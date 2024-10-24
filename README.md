@@ -1,4 +1,4 @@
-# Applied Linear Algebra Course - Fall 2022
+# Applied Machine Learning Course - Fall 2022
 
 This repository contains materials and assignments from the **Applied Linear Algebra** course, taken in Fall 2022 under the supervision of **Dr. Safayani**. The course explored the intersection of linear algebra and machine learning, providing both theoretical and practical insights.
 
